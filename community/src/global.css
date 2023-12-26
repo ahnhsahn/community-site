@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --roboto-12pt-normal: Roboto;
+
+  /* font sizes */
+  --roboto-13px-normal-size: 13px;
+  --roboto-12pt-normal-size: 12px;
+  --roboto-125pt-normal-size: 12.5px;
+  --roboto-14pt-medium-size: 14px;
+  --font-size-lgi: 19px;
+
+  /* Colors */
+  --blue-button-primary: #5181b8;
+  --blue-420: #4a76a8;
+  --color-steelblue-100: #416a9a;
+  --blue-600: #2a5885;
+  --blue-640: #224b7a;
+  --x-padding: rgba(255, 150, 150, 0);
+  --gray-80: #e7e8ec;
+  --color-gainsboro-100: #dfe1e5;
+  --light-blue-100: #dae2ea;
+  --color-gainsboro-200: #dce1e6;
+  --gray-120: #d3d9de;
+  --white: #fff;
+  --gray-400: #939393;
+  --color-gray-100: rgba(0, 0, 0, 0.5);
+  --black: #000;
+  --steel-gray-400: #818c99;
+  --color-slategray-100: #6f7985;
+  --steel-gray-540: #626d7a;
+  --steel-gray-a540: #55677d;
+  --color-silver-100: #c4c4c4;
+  --color-silver-200: rgba(196, 196, 196, 0);
+  --color-dimgray-100: #696969;
+  --gray-600: #656565;
+  --blue-button-secondary: #e3e9ef;
+  --color-lightsteelblue: #8fadc8;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+  --gap-11xs: 2px;
+  --gap-sm: 14px;
+  --gap-5xs: 8px;
+  --gap-12xs: 1px;
+  --gap-9xs: 4px;
+  --gap-7xs: 6px;
+  --gap-2xl: 21px;
+  --gap-10xs: 3px;
+  --gap-8xs: 5px;
+  --gap-mini: 15px;
+  --gap-4xs: 9px;
+  --gap-xs: 12px;
+  --gap-lg: 18px;
+  --gap-6xs: 7px;
+  --gap-smi: 13px;
+
+  /* Paddings */
+  --padding-5xs: 8px;
+  --padding-smi: 13px;
+  --padding-xl: 20px;
+  --padding-6xs: 7px;
+  --padding-xs: 12px;
+  --padding-12xs: 1px;
+  --padding-10xs: 3px;
+  --padding-mini: 15px;
+  --padding-11xs: 2px;
+  --padding-base: 16px;
+  --padding-lg: 18px;
+  --padding-sm: 14px;
+  --padding-9xs: 4px;
+  --padding-3xs: 10px;
+  --padding-7xs: 6px;
+  --padding-8xs: 5px;
+  --padding-4xs: 9px;
+
+  /* Border radiuses */
+  --br-8xs: 5px;
+  --br-9xs: 4px;
+  --br-10xs: 3px;
+  --br-base: 16px;
+  --br-11xs: 2px;
+  --br-sm: 14px;
+
+  /* Effects */
+  --shadow-small: 0px -1px 0px #d3d9de inset;
+}
