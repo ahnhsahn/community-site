@@ -1,9 +1,13 @@
-import './App.css';
+import "./App.css";
+import "bootstrap/dist/css/bootstrap.min.css";
+import BoardList from "./BoardList";
+import Write from "./write";
 
 function App() {
   return (
     <div className="App">
-      Hello World!
+      <BoardList></BoardList>
+      <Write></Write>
     </div>
   );
 }
